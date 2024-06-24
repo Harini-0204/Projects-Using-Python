@@ -2,7 +2,8 @@
 **
 
 Introduction
-The stock market is an intricate and ever-changing system that attracts a broad spectrum of investors, from individual retail traders to massive institutional investors. To navigate and potentially profit from this complexity, many turn to quantitative analysis—a method that uses mathematical and statistical models to analyze financial data and inform trading decisions. This blog delves into the principles and methodologies of quantitative analysis, emphasizing how Python serves as an indispensable tool in this realm.
+
+The stock market is an intricate and ever-changing system that attracts a broad spectrum of investors, from individual retail traders to massive institutional investors. To navigate and potentially profit from this complexity, many turn to quantitative analysis—a method that uses mathematical and statistical models to analyze financial data and inform trading decisions. It delves into the principles and methodologies of quantitative analysis, emphasizing how Python serves as an indispensable tool in this realm.
 
 
 The Essence of Quantitative Analysis
